@@ -1,0 +1,60 @@
+/* src/styles.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Jersey+20&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  .kk{
+    display: inline-flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    color: aliceblue;
+  }
+  .jj{
+    margin-right: 40px;
+    margin-top: 45px;
+    color: aliceblue;
+    text-decoration:none;
+  }
+  a{
+    color: rgb(144, 96, 96);
+    text-decoration: none;
+
+  }
+  button{
+    color: rgb(144, 96, 96);
+  }
+  .yy{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255, 179, 179, 0.3);
+  }
+  .hhh{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    margin: 0;
+    padding: 0px;
+    padding-top: 0px;
+    color:  rgba(194,78,52,255);
+    
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+    
+  }
+  /* #root{
+    background-color:rgb(226, 229, 128);
+  } */
+  /* Add more styles as needed */
+  

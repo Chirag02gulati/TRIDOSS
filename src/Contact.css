@@ -1,0 +1,86 @@
+/* Contact.css */
+.signin-container {
+.contact-container {
+    background: rgba(255, 255, 255, 0.2) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    background-image: url("https://www.bailinson-oleary.com/wp-content/uploads/2019/08/Child-Support.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .form-fieldset {
+    height: 500px;
+    width: 400px;
+    background-color: rgba(0, 0, 0,1);
+    border-color: transparent;
+  }
+
+  .form-legend {
+    margin:0;
+    padding:50px 0px 0px 0px;
+    color: rgb(194,78,52);
+    font-size: xx-large;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .form-input {
+    height: 40px;
+    width: 400px;
+    background-color: rgba(255, 179, 179, 0.3);
+    border-color: rgba(194,78,52,255);
+    border-width: 0.0003rem;
+    padding-left: 20px;
+    margin-bottom: 20px;
+  }
+  .input-container {
+    margin-top: 20px;
+  }
+  .form-button {
+    background-color: rgb(255, 186, 189);
+    font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    height: 40px;
+    width: 420px;
+    color: rgba(194,78,52,255);
+    font-size: large;
+    font-weight: 700;
+    margin-top: 5px;
+    border-color: transparent;
+  }
+  
+  .form-checkbox {
+    color:white;
+    text-align: left;
+    margin-right: 220px;
+  }
+  
+  .contact-info {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgba(194,78,52,255);
+    height: 400px;
+    padding-left: 60px;
+  }
+  
+  .contact-info p {
+    padding-top: 60px;
+  }
+  
+  .contact-info table a {
+    margin-left: 100px;
+    color: whitesmoke;
+  }
+  .qw{
+    color:white;
+  }
+}
